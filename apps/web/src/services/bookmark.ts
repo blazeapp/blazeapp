@@ -1,0 +1,3 @@
+class Bookmark {}
+
+export { Bookmark };
